@@ -1,0 +1,7 @@
+03-03 12:09:20.631  27257-27257/? I/Lab-Notifications? In ensureData(), mIsFresh:false
+03-03 12:09:21.131  27257-27257/? I/Lab-Notifications? Issuing Toast Message
+03-03 12:09:21.642  27257-27298/? I/Lab-Notifications? Entered doInBackground()
+03-03 12:09:52.164  27257-27298/? I/Lab-Notifications? Tweet Download Completed:true
+03-03 12:09:52.665  27257-27298/? I/Lab-Notifications? Entered notify()
+03-03 12:09:53.195  27257-27257/? I/Lab-Notifications? BroadcastIntent received in MainActivity
+03-03 12:09:53.996  27257-27257/? I/Lab-Notifications? Entered result receiver's onReceive() method

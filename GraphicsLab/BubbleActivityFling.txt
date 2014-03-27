@@ -1,0 +1,3 @@
+03-10 23:19:35.774  24217-24217/course.labs.GraphicsLab I/Lab-Graphics? Creating Bubble at: x:100.0 y:100.0
+03-10 23:19:37.125  24217-24217/course.labs.GraphicsLab I/Lab-Graphics? velocity X:2417.8616 velocity Y:2417.8616
+03-10 23:19:38.056  24217-24217/course.labs.GraphicsLab I/Lab-Graphics? Bubble removed from view!

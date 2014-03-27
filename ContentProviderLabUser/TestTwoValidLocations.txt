@@ -1,0 +1,7 @@
+03-26 22:23:21.347    2333-2333/course.labs.contentproviderlab I/Lab-ContentProvider? Entered onCreateLoader()
+03-26 22:23:29.428    2333-2333/course.labs.contentproviderlab I/Lab-ContentProvider? Entered footerView.OnClickListener.onClick()
+03-26 22:23:29.538    2333-2333/course.labs.contentproviderlab I/Lab-ContentProvider? Starting Place Download
+03-26 22:23:30.198    2333-2333/course.labs.contentproviderlab I/Lab-ContentProvider? Entered addNewPlace()
+03-26 22:23:34.578    2333-2333/course.labs.contentproviderlab I/Lab-ContentProvider? Entered footerView.OnClickListener.onClick()
+03-26 22:23:34.688    2333-2333/course.labs.contentproviderlab I/Lab-ContentProvider? Starting Place Download
+03-26 22:23:35.248    2333-2333/course.labs.contentproviderlab I/Lab-ContentProvider? Entered addNewPlace()

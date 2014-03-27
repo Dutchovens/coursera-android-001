@@ -1,0 +1,3 @@
+02-23 23:27:45.115  26501-26501/course.labs.permissionslab I/Lab-Permissions? Entered startBookMarksActivity()
+02-23 23:27:45.926  26501-26501/course.labs.permissionslab I/Lab-Permissions? Entered startGoToDangerousActivity()
+02-23 23:27:47.698  26501-26501/course.labs.permissionslab I/Lab-Permissions? Entered startDangerousActivity()

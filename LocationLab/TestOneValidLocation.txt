@@ -1,0 +1,4 @@
+03-18 02:04:25.005    2004-2004/course.labs.locationlab I/Lab-Location? Entered footerView.OnClickListener.onClick()
+03-18 02:04:25.515    2004-2004/course.labs.locationlab I/Lab-Location? Starting Place Download
+03-18 02:04:26.703    2004-2004/course.labs.locationlab I/Lab-Location? Entered addNewPlace()
+03-18 02:04:30.613    2004-2004/course.labs.locationlab I/Lab-Location? Place: The Greenhouse Country: United States

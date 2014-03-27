@@ -1,0 +1,7 @@
+02-24 00:01:12.321    2164-2164/? I/Lab-Fragments? Entered onActivityCreated()
+02-24 00:01:15.131    2164-2164/course.labs.fragmentslab I/Lab-Fragments? Entered onItemSelected(0)
+02-24 00:01:15.131    2164-2164/course.labs.fragmentslab I/Lab-Fragments? Entered updateFeedDisplay()
+02-24 00:01:17.901    2164-2164/course.labs.fragmentslab I/Lab-Fragments? Entered onItemSelected(1)
+02-24 00:01:17.901    2164-2164/course.labs.fragmentslab I/Lab-Fragments? Entered updateFeedDisplay()
+02-24 00:01:20.641    2164-2164/course.labs.fragmentslab I/Lab-Fragments? Entered onItemSelected(2)
+02-24 00:01:20.641    2164-2164/course.labs.fragmentslab I/Lab-Fragments? Entered updateFeedDisplay()

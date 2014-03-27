@@ -1,0 +1,3 @@
+02-13 21:54:12.871    5052-5052/course.labs.intentslab I/Lab-Intents? Entered startExplicitActivation()
+02-13 21:54:16.325    5052-5052/course.labs.intentslab I/Lab-Intents? Entered enterClicked()
+02-13 21:54:16.405    5052-5052/course.labs.intentslab I/Lab-Intents? Entered onActivityResult()

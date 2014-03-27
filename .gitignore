@@ -28,8 +28,12 @@ proguard/
 .idea/tasks.xml
 
 # Android Studio
+import-summary.txt
 .idea/
 .gradle
+gradle
+gradlew.bat
+gradlew
 /*/local.properties
 /*/out
 /*/*/build
